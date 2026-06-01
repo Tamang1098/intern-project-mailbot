@@ -1,0 +1,2 @@
+python .env
+pip install mysql-connector-python
